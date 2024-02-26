@@ -27,4 +27,5 @@ PROBLEM DESCRIPTION AND REMEDIATION:
 ====================================
 
 1) Install OpenSSL Y
-2) Use AES-256 algo in CBC mode
+2) Use AES-256 algo in CBC mode Y
+3) Make IVs
