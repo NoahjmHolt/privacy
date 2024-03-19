@@ -39,7 +39,7 @@ superSecretPassword = "FartsAreIndeedFunny"
 
 # Initialization Vector Stuff
 # Mine is 16 to work, but I think its supposed to be 32 so try both maybe.
-number256 = 16 # 256 / 8 = number of bytes per encryption
+number256 = 16  # 256 / 8 = number of bytes per encryption
 IVleagueCollege = GetInitVect(number256)
 
 # Please ignore WARNINGS, they are natural
