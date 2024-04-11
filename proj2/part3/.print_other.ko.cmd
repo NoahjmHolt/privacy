@@ -1,0 +1,1 @@
+cmd_/home/annabelfuina/Desktop/CS4500/proj2/part3/print_other.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/annabelfuina/Desktop/CS4500/proj2/part3/print_other.ko /home/annabelfuina/Desktop/CS4500/proj2/part3/print_other.o /home/annabelfuina/Desktop/CS4500/proj2/part3/print_other.mod.o

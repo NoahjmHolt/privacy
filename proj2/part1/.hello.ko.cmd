@@ -1,0 +1,1 @@
+cmd_/home/annabelfuina/Desktop/CS4500/proj2/part1/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/annabelfuina/Desktop/CS4500/proj2/part1/hello.ko /home/annabelfuina/Desktop/CS4500/proj2/part1/hello.o /home/annabelfuina/Desktop/CS4500/proj2/part1/hello.mod.o
